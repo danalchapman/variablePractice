@@ -15,3 +15,11 @@ var rebelScum = 375
 var darkSide = true
 var lightSide = false
 var bounterHuner = true
+
+charName = "Satine"
+itemName = "Blaster"
+planetName = "Naboo"
+
+console.log(charName);
+console.log(itemName);
+console.log(planetName);
